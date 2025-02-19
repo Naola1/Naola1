@@ -12,7 +12,7 @@ Building robust solutions with modern technologies
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django) ![DRF](https://img.shields.io/badge/-Django_REST-FF1709?logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 **Frontend Development**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 **DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![Render](https://img.shields.io/badge/-Render-46E3B7) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
@@ -27,4 +27,29 @@ _Intensive program covering:_
 ## 💻 Featured Projects  
 
 ### 🛒 Clothing Rental Platform  
-![Django](https://img.shields.io/badge/-Django-092E20) ![Python](https://img.shields.io/badge/-Python-3776AB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD) ![dj-stripe](https://img.shields.io/badge/-dj--stripe-008CDD) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4) ![GitHub](https://img.shields.io/badge/-GitHub-181717) ![Render](https
+![Django](https://img.shields.io/badge/-Django-092E20) ![Python](https://img.shields.io/badge/-Python-3776AB) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![Stripe](https://img.shields.io/badge/-Stripe-008CDD) ![dj-stripe](https://img.shields.io/badge/-dj--stripe-008CDD) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4) ![GitHub](https://img.shields.io/badge/-GitHub-181717) ![Render](https://img.shields.io/badge/-Render-46E3B7) ![SMTP](https://img.shields.io/badge/-SMTP-EA4335?logo=gmail)  
+▶️ Full-stack e-commerce solution for renting clothes online  
+🔐 Custom authentication with email verification & password reset  
+🛒 Real-time shopping cart with price calculations  
+💳 Multi-payment support via Stripe integration  
+📧 Automated SMTP notifications system  
+🔍 Advanced product filtering and search features
+
+### 🏥 Dental Clinic Management System  
+![React](https://img.shields.io/badge/-React-61DAFB) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6) ![Axios](https://img.shields.io/badge/-Axios-5A29E4) ![Tanstack Query](https://img.shields.io/badge/-Tanstack_Query-FF4154?logo=reactquery) ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990) ![Zod](https://img.shields.io/badge/-Zod-3066BE) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4) ![Django](https://img.shields.io/badge/-Django-092E20) ![DRF](https://img.shields.io/badge/-DRF-FF1709) ![JWT](https://img.shields.io/badge/-JWT-000000) ![Django-rest-passwordreset](https://img.shields.io/badge/-Django_rest_passwordreset-FF1709) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1) ![Render](https://img.shields.io/badge/-Render-46E3B7) ![Vercel](https://img.shields.io/badge/-Vercel-000000)  
+▶️ Role-based system with distinct interfaces for:  
+👨⚕️ Doctors • 🧑💼 Receptionists • 👤 Patients  
+📅 Real-time doctor availability & appointment scheduling  
+📝 Comprehensive patient record management  
+🔒 Secure JWT authentication with role-specific access  
+⚡ REST API integration for medical data operations
+
+## 📜 Certifications  
+🏅 **ALX Software Engineering Certification** - 2024  
+
+## 🚀 Let's Connect!  
+Looking to collaborate on innovative backend solutions or full-stack projects?  
+📧 Reach out: [naolmitiku@gmail.com](mailto:naolmitiku@gmail.com)  
+💼 Let's grow our network: [LinkedIn](https://www.linkedin.com/in/naol-mitiku-0a48a423b/)
+
+![Coding Banner](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=54A2FF&width=435&lines=Turning+ideas+into+functional+code;Backend+architect+with+a+full-stack+vision;Always+learning+%26+building)
