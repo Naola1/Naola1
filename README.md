@@ -14,15 +14,12 @@ Building robust solutions with modern technologies
 **Frontend Development**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github) ![Render](https://img.shields.io/badge/-Render-46E3B7) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-
 ## 🎓 Education  
 **ALX Software Engineering**  
 📆 2024 | 🏆 Certified  
 _Intensive program covering:_  
-• Full-stack development • System engineering • DevOps  
-• Specialization in backend architecture
+• Full-stack development 
+• Specialization in backend
 
 ## 💻 Featured Projects  
 
