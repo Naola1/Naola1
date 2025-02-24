@@ -17,8 +17,10 @@ Building robust solutions with modern technologies
 ## 🎓 Education  
 **ALX Software Engineering**  
 📆 2025 | 🏆 Certified  
+
 _Intensive program covering:_  
-• Full-stack development 
+
+• Full-stack development  
 • Specialization in backend
 
 ## 💻 Featured Projects  
