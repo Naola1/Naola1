@@ -51,4 +51,4 @@ Looking to collaborate on innovative backend solutions or full-stack projects?
 📧 Reach out: [naolmitiku@gmail.com](mailto:naolmitiku@gmail.com)  
 💼 Let's grow our network: [LinkedIn](https://www.linkedin.com/in/naol-mitiku-0a48a423b/)
 
-![Coding Banner](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=54A2FF&width=435&lines=Turning+ideas+into+functional+code;Backend+architect+with+a+full-stack+vision;Always+learning+%26+building)
+![Coding Banner](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=54A2FF&width=435&lines=Turning+ideas+into+functional+code;Full-stack+developer+focused+on+backend+development;Always+learning+%26+building)
