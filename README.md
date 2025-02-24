@@ -19,7 +19,6 @@ Building robust solutions with modern technologies
 📆 2025 | 🏆 Certified  
 _Intensive program covering:_  
 • Full-stack development 
-
 • Specialization in backend
 
 ## 💻 Featured Projects  
