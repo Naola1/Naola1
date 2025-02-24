@@ -16,9 +16,10 @@ Building robust solutions with modern technologies
 
 ## 🎓 Education  
 **ALX Software Engineering**  
-📆 2024 | 🏆 Certified  
+📆 2025 | 🏆 Certified  
 _Intensive program covering:_  
 • Full-stack development 
+
 • Specialization in backend
 
 ## 💻 Featured Projects  
@@ -42,7 +43,7 @@ _Intensive program covering:_
 ⚡ REST API integration for medical data operations
 
 ## 📜 Certifications  
-🏅 **ALX Software Engineering Certification** - 2024  
+🏅 **ALX Software Engineering Certification** - 2025  
 
 ## 🚀 Let's Connect!  
 Looking to collaborate on innovative backend solutions or full-stack projects?  
